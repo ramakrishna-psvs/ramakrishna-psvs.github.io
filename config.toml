@@ -1,5 +1,25 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://ramakrishna-psvs.github.io/'
 languageCode = 'en-us'
 title = 'My Blog'
 
-theme = ""paper
+theme = "paper"
+
+disqusShortname = ''
+
+[params]
+  # color style
+  color = 'linen'
+
+  # header social icons
+  twitter = 'HypoLoco'
+  github = 'ramakrishna-psvs'
+  instagram = 'rama.krishna__'
+  rss = true
+
+  # home page profile
+  avatar = 'heyofreak19@gmail.com'
+  name = 'Rama Krishna Pinjala'
+  bio = 'Hi!'
+
+  # misc
+  math = true
