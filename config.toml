@@ -23,3 +23,19 @@ disqusShortname = ''
 
   # misc
   math = true
+
+  [menu]
+  
+    [[menu.main]]
+      identifier = "about"
+      name = "About"
+      url = "/about/"
+      weight = 10
+    [[menu.main]]
+      name = "Contact"
+      url = "/contact/"
+
+  [taxonomies]
+    category = "topics"
+    tag = "tags"
+    series = "series"
