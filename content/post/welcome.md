@@ -5,6 +5,7 @@ draft: false
 tags: ["welcome"]
 topics: "basic"
 author: "Rama Krishna"
+weight: 10
 ---
 
 **The Mandatory Welcome Post:beaming_face_with_smiling_eyes:**
