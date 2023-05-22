@@ -7,3 +7,4 @@ author: "Rama Krishna"
 ---
 
 You Can find me at : ramakrishna.psvs@gmail.com 
+or on my socials linked on the top right! 
