@@ -5,11 +5,10 @@ date: 2023-05-18T12:30:00+05:30
 aliases: ["about"]
 author: "Rama Krishna "
 ---
-
+ <link rel="stylesheet" href="/custom.css">
 Welcome to my blog! I'm Rama Krishna, a passionate aficionado of continental cuisine and a devoted Formula 1 enthusiast. Lewis Hamilton and the Mercedes team have my unwavering support, I enjoy researching, debating, and occasionally coding, exploring the realms of technology. 
-<img src="/img/vibe.jpg" style="float: right; height: 150px;  width: 200px; " alt="Image">
 
-<p style="text-align: match-parent;" >Economics holds a special place in my heart, and as an International Baccalaureate Diploma Programme (IBDP) student, I am constantly deepening my understanding of this captivating subject.
- Oh and Yes, I love travelling, exploring joy to the depths! </p>
+Economics holds a special place in my heart, and as an International Baccalaureate Diploma Programme (IBDP) student, I am constantly deepening my understanding of this captivating subject.
+ Oh and Yes, I love travelling, exploring joy to the depths! 
 
-
+<img src="/img/vibe.jpg" class="center" alt="Image">

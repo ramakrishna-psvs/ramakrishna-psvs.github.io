@@ -1,10 +1,11 @@
 ---
 title: "Genetic Engineering - haunting but interesting? "
-date: 2023-05-21T08:18:30+05:30
+date: 2023-05-27T08:18:30+05:30
 draft: false
 tags: ["Genetics","BioTech"]
 topics: "basic"
 author: "Rama Krishna"
+comments : true
 ---
  <link rel="stylesheet" href="/custom.css">
 We talk about genetic Engineering here- So, 
