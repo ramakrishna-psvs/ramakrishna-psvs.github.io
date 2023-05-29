@@ -5,7 +5,6 @@ draft: false
 tags: ["Data","Coding"]
 topics: "Data Science"
 author: "Rama Krishna"
-comments : true
 ---
  <link rel="stylesheet" href="/custom.css">
 

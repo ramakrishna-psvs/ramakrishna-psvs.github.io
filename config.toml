@@ -29,7 +29,10 @@ disqusShortname = ''
 
   # misc
   math = true
-  
+
+[Params]
+giscusTheme="preferred_color_scheme"
+disableComments=false
 
 
   [menu]
@@ -59,3 +62,4 @@ disqusShortname = ''
     disableInlineCSS = true
 
 custom_css = ["css/custom.css"]
+
