@@ -11,15 +11,24 @@ author: "Rama Krishna"
 
  A government by definition is a group of individuals working together to run a state or a country, where the only measure of progress and success is growth. Be it with the GDP, Budgeting split and financing, Infrastrucutre development, government policies,  the positively changing numbers and the upward trend is all that the people want to see. 
 
+<img src="/img/blog/government/cg.jpg" alt="Image" class="center">
+
  Schools have thought us that a government comprises of the Judiciary, Executive, and the Legislature. Moving further, I would be focusing on the Union Executive Branch which is otherwise known as the central government. It consists of the Elected leaders whos decisions are responsible for taking the country forward because of which they are amongst the most talked about individuals in the country.
+
+<img src="/img/blog/government/order.jpg" alt="Image" class="center">
 
 Setting aside our emotional mind, everyone deserves and needs to understand what it takes to “run” a country and keeping it growing. It is a **combined effort** from the Council of Ministers lead by the Prime Minister to achive common goals.
 
+<img src="/img/blog/government/colab.jpg" alt="Image" class="center">
+
 To put the country in its best possible position, it requires for a collaborative approach from the  council of ministers who are responsible for specific portfolios or departments to work together by supporting and complementing each other, and the Prime Minister's role here is to coordinate the activities of the various ministries, ensure effective decision making, and to promote cohesion and unity among the ministers.
+
+<img src="/img/blog/government/union.jpg" alt="Image" class="center">
 
 Each minister brings their expertise and perspective to the table, contributing to discussions, proposing initiatives, and are responsible for overseeing the implementation of policies within their respective portfolios.
 
-### **The Graduates Example:**
+--------------------------------------------------------------------------------
+###       <p style="text-align: center;"> **The Graduates Example**</p>
 
 I have come up with this exmaple to support my idealogy mentioned above, 
 
@@ -29,11 +38,11 @@ The Prime Minister holds a meeting, and the ministers that are responsible for t
 
 1. Ministry of Ports,Shipping and Waterways 
     
-    This ministry would play a crucial role in developing and expanding the maritime infrastructure, including ports, shipping channels, and logistics facilities to create employment for which they require investment or allocation of fund from the Minitry of Finance. 
+    This ministry would play a crucial role in developing and expanding the maritime infrastructure, including ports, and logistics facilities to create employment for which they require investment and funds from the Ministry of Finance. 
     
 2. Ministry of External Affairs 
     
-    The Ministry of External Affairs would be involved in establishing international collaborations and partnerships with other countries  in the maritime sector. They would focus on negotiating favorable trade agreements, promoting the country's maritime interests globally, and play key role attracting and adivicing the Minitry of Finance about foreign investement.
+    The Ministry of External Affairs would be involved in establishing international collaborations and partnerships with other countries in the maritime sector.They would focus on negotiating favorable trade agreements, and play key role attracting foreign investement along side Minitry of Finance
     
 3. Ministry of Finance 
     
@@ -45,7 +54,7 @@ The Prime Minister holds a meeting, and the ministers that are responsible for t
     
 5. Ministry of Corporate Affairs 
     
-    The Ministry of Corporate Affairs would be involved in creating a conducive business environment for the maritime industry. Establishing regulatory processes, promoting ease of doing business, and directing foreign companies and investment.
+    The Ministry of Corporate Affairs would be involved in creating a conducive business environment for the maritime industry. Establishing regulatory processes,and directing foreign companies and investment.
     
 6. Ministry of Railways 
     

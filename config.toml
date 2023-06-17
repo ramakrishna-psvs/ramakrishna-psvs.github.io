@@ -26,13 +26,11 @@ disqusShortname = ''
   avatar = 'heyofreak19@gmail.com'
   name = 'Rama Krishna Pinjala'
   bio = '16. I like F1, BioTech, Transport and Travel Industry,International Affairs and Diplomacy, Coding'
-
+   
   # misc
-  math = true
+  giscusTheme="preferred_color_scheme" 
+  disableComments=false
 
-[Params]
-giscusTheme="preferred_color_scheme"
-disableComments=false
 
 
   [menu]
@@ -62,4 +60,5 @@ disableComments=false
     disableInlineCSS = true
 
 custom_css = ["css/custom.css"]
+
 
