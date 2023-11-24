@@ -25,7 +25,7 @@ disqusShortname = ''
   # home page profile
   avatar = 'heyofreak19@gmail.com'
   name = 'Rama Krishna Pinjala'
-  bio = '17. Interests: F1, BioTech,Economcis, Transport and Travel Industry,International Affairs and Diplomacy, Coding'
+  bio = '17. F1, BioTech, Economics, Transportation Systems, International Affairs, Coding'
    
   # misc
   giscusTheme="preferred_color_scheme" 
@@ -48,8 +48,9 @@ disqusShortname = ''
     [[menu.main]]
       identifier = "cv"
       name = "Resume"
-      url = "https://www.notion.so/Extra-Curriculars-a5e8266567fa416bbbe9a603c46863c9?pvs=4"
+      url = "/resume/"  
       weight = 2
+    
 
   [taxonomies]
     category = "topics"
@@ -65,9 +66,5 @@ disqusShortname = ''
     disableInlineCSS = true
 
 custom_css = ["css/custom.css"]
-[[redirects]]
-  from = "/resume/"
-  to = "https://www.notion.so/Extra-Curriculars-a5e8266567fa416bbbe9a603c46863c9?pvs=4"
-  status = 302
 
 
